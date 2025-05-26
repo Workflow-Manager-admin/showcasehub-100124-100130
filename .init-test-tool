@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/showcasehub-100124-100130/main_container_for_showcasehub"
+}
